@@ -20,15 +20,15 @@ public class HomeworkJava {
         Scanner sc = new Scanner(System.in);
         // BAI TAP DE 
         // tinh tong, hieu, tich, luy thua, thuong
-       // System.out.println("nhap vao a: ");
-       // float a=sc.nextFloat();//su dung float nextFloat tra ve kieu du lieu float
-       // System.out.println("nhap vao b: ");
-       // float b=sc.nextFloat();//nhu tren
-       // System.out.println("tong a+b="+(a+b));
-       // System.out.println("hieu a-b="+(a-b));
-       // System.out.println("tich a*b="+(a*b));
-       // System.out.println("luy thua a^b="+Math.pow(a,b));
-       // System.out.println("thuong a/b="+(a/b));
+        System.out.println("nhap vao a: ");
+        float a=sc.nextFloat();//su dung float nextFloat tra ve kieu du lieu float
+        System.out.println("nhap vao b: ");
+        float b=sc.nextFloat();//nhu tren
+        System.out.println("tong a+b="+(a+b));
+        System.out.println("hieu a-b="+(a-b));
+        System.out.println("tich a*b="+(a*b));
+        System.out.println("luy thua a^b="+Math.pow(a,b));
+        System.out.println("thuong a/b="+(a/b));
         
         //BAI TAP KHO
         //Giai phuong trinh bac 2 ax^2+bx+c=0
